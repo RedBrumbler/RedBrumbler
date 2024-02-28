@@ -1,15 +1,9 @@
 # Projects
 
-## [Qosmetics](https://github.com/RedBrumbler/Qosmetics)
-An Oculus Quest Mod for Beat Saber, allowing users to swap out the default walls, blocks and sabers for custom community made ones!
+## [Qosmetics](https://github.com/Qosmetics/Qosmetics)
+A mod suite for replacing models in Beat Saber for Oculus Quest, allowing users to swap out the default walls, blocks and sabers for custom community made ones!
 
 Programmed in c++ this has been my major mod that I use to learn new things about the language and try out new cool things with UI
-
-## [MonkeComputer](https://github.com/RedBrumbler/MonkeComputer)
-An Oculus Quest Mod/Library for Gorilla Tag that allows mod makers to create their own text based custom UI, and adds functionality to the game by making the scoreboard accessible to other players.
-
-This is my learning mod for learning how to make libraries properly available for others to use, and has been very successful in getting me to understand that
-
 ## Other
 I have many more other projects that I've worked on, most of them are Oculus Quest Mods, you can mostly find them in my repositories!
 
